@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- URLs for Men's Store -->
+    <url>
+        <loc>https://www.amimalls.com/store/men</loc>
+    </url>
+    <url>
+        <loc>https://www.amimalls.com/store/men/shirt/Uba</loc>
+    </url>
+    <url>
+        <loc>https://www.amimalls.com/store/men/polo/didio</loc>
+    </url>
+    
+    <!-- URLs for Women's Store -->
+    <url>
+        <loc>https://www.amimalls.com/store/women</loc>
+    </url>
+    <url>
+        <loc>https://www.amimalls.com/store/women/polo/didio</loc>
+    </url>
+    
+    <!-- URLs for Kids & Youth Store -->
+    <url>
+        <loc>https://www.amimalls.com/store/kids-youth</loc>
+    </url>
+    <url>
+        <loc>https://www.amimalls.com/store/kids-youth/polo/didio</loc>
+    </url>
+    
+    <!-- URLs for Hats Store -->
+    <url>
+        <loc>https://www.amimalls.com/store/hats</loc>
+    </url>
+    <url>
+        <loc>https://www.amimalls.com/store/hats/visors/amimalls</loc>
+    </url>
+    
+    <!-- URLs for Accessories Store -->
+    <url>
+        <loc>https://www.amimalls.com/store/accessories/phone-case</loc>
+    </url>
+    <url>
+        <loc>https://www.amimalls.com/store/accessories/phone-case/amimalls</loc>
+    </url>
+    
+    <!-- URLs for Home & Living Store -->
+    <url>
+        <loc>https://www.amimalls.com/store/home-living</loc>
+    </url>
+    <url>
+        <loc>https://www.amimalls.com/store/home-living/wallart</loc>
+    </url>
+</urlset>
