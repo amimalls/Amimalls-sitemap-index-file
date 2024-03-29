@@ -1,0 +1,1 @@
+# Amimalls-sitemap-index-file
