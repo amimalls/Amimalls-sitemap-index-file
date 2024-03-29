@@ -15,6 +15,7 @@
   <sitemap>
     <loc>https://www.amimalls.com/sitemap-authors.xml</loc>
   </sitemap>
-  <sitemap>https://www.amimalls.com/sitemap-pages.xml<loc>
+  <sitemap>
+    https://www.amimalls.com/sitemap-pages.xml<loc>
   </sitemap>   
 </sitemapindex>
