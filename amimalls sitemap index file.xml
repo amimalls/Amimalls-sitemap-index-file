@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://www.amimalls.com/sitemap-blog.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.amimalls.com/sitemap-news.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.amimalls.com/sitemap-gear.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.amimalls.com/sitemap-store.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.amimalls.com/sitemap-authors.xml</loc>
+  </sitemap>
+  <sitemap>https://www.amimalls.com/sitemap-pages.xml<loc>
+  </sitemap>   
+</sitemapindex>
